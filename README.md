@@ -145,7 +145,7 @@ The project therefore demonstrates how an inference layer can reduce unnecessary
 
 ## Dashboard
 
-![InferenceOS Dashboard](docs/landing.png)
+![InferenceOS Dashboard](docs/landing.jpeg)
 
 > Streamlit dashboard showing routing strategies, model tiers, inference information, and live cache statistics.
 
@@ -153,7 +153,7 @@ The project therefore demonstrates how an inference layer can reduce unnecessary
 
 ## Live Inference
 
-![InferenceOS Result](docs/result.png)
+![InferenceOS Result](docs/result.jpeg)
 
 > Example request classified as SIMPLE and served through the semantic cache with high similarity.
 
